@@ -293,8 +293,14 @@ Some important findings from the analysis include:
 This repository includes dashboard screenshots for:
 
 - Summary Dashboard
+<img width="895" height="505" alt="Summary" src="https://github.com/user-attachments/assets/9f13fdb0-b7b3-4b50-ae5b-286ba461bed9" />
+
 - Overview Dashboard
+<img width="897" height="504" alt="Overview" src="https://github.com/user-attachments/assets/e0949f00-53b0-4a5b-a7d7-a028e21b5560" />
+
 - Details Dashboard
+<img width="899" height="501" alt="Details" src="https://github.com/user-attachments/assets/edaf304b-4954-42af-95e6-2dde967c2213" />
+
 
 ---
 
